@@ -2,17 +2,20 @@
 
 ## Zones/Regions
 
-- main (text column)
-- drop capitals/initials (historiated initial; ornated initials; flourished initial; painted initials)
-- ornementation (bouts de ligne…)
-- signatures, page numbering
+- Main area (text column): the main area designed to contain text, either as a single  or several columns (as designed in the conception of the layout: including eventually text, music notations, illumination, etc.)*
+- Drop capitals/initials (historiated initial; ornated initials; flourished initial; painted initials)
+- Ornementation (line-filler…)*
+- Signatures, Numbering
 
 ## Zone or line ?
 
-- music notation
+- Music notation
 
 ## Lines
 
-- main
-- rubric
-- initial ?
+- Default
+- Music
+- Rubric
+- Initial ?
+
+* How to handle it practically? Especially with zones inside zone.

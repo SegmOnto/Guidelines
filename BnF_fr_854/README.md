@@ -2,12 +2,12 @@
 
 ## Zones/Regions
 
-- main (text column)
-- drop capitals/initials (historiated initial; flourished initial; painted initials)
-- signatures, page numbering
+- Main (text column)
+- Drop capitals/initials (historiated initial; flourished initial; painted initials)
+- Signatures, Numbering
 
 ## Lines
 
-- main
-- rubric
-- initial ?
+- Default
+- Rubric
+- Initial
