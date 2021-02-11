@@ -2,14 +2,17 @@
 
 ## Zones/Regions
 
-- main (text column)
-- additions / margin text
-- drop capitals/initials (flourished initial)
-- page numbering
-- stamp
-- damage and restoration
+- Main (text column)*
+- Additions / margin text
+- Drop capitals/initials (flourished initial)
+- Page numbering
+- Stamp
+- Damage and restoration ?
 
 ## Lines
 
-- main
-- initial ?
+- Default
+- Interlinear corrections
+- Initial ?
+
+* single type: main, or, three different types: column1, column2, column3 (workaround)
