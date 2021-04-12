@@ -9,4 +9,5 @@ Many sources contain either originally or from additions various element of deco
 ## Problems and challenges
 
 - Should different kinds of decorations be distinguished ?
+- What do we do with Muzerelle's distinction between illustration and ornementation (two different kind of decorations). Cf. http://codicologia.irht.cnrs.fr/theme/liste_theme/511.
 
