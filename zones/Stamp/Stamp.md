@@ -1,6 +1,6 @@
 ## Definition
 
-**Stamp:** caracterises a zone containing a stamp, be it a library stamp or a mark from a postal service, or a seal.
+**Stamp:** caracterises a zone containing a stamp, be it a library stamp or a mark from a postal service.
 
 ## Justification
 
