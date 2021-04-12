@@ -1,6 +1,6 @@
 ## Definition
 
-**Margin:** caracterises any **text zone* contained in the margins (upper, lower, inner or outer), including the space between two columns, whatever their semantic status (gloss, additions, …).
+**Margin:** caracterises any **text zone** contained in the margins (upper, lower, inner or outer), including the space between two columns, whatever their semantic status (gloss, additions, …).
 
 ## Justification
 
