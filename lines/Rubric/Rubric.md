@@ -8,4 +8,4 @@ Rubrics are usually distinguished through color (red ink) from surrounding text 
 
 ## Problems and challenges
 
-
+Could we use rubrics to encode speakers in theatre plays (cf. https://gallica.bnf.fr/ark:/12148/btv1b8610799c/f20.item).
