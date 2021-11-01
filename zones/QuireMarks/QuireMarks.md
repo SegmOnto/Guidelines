@@ -1,6 +1,6 @@
 ## Definition
 
-**Signature:** caracterises a zone containing a quire signature (i.e., _a ii_), catchword, or any kind of element relative to the material organisation of the source, with the exclusion of page numbers.
+**QuireMarks:** caracterises a zone containing a quire signature (i.e., _a ii_), catchword, or any kind of element relative to the material organisation of the source, with the exclusion of page numbers.
 
 ## Justification
 
