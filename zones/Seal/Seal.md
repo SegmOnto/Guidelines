@@ -1,6 +1,17 @@
+# `Seal`
+
 ## Definition
 
-**Seal:** caracterises a zone containing a seal.
+**Seal:** characterises a zone containing a seal.
+
+## Examples
+
+<img src="btv1b10540051s_f273.jpg" height="100px">
+<img src="btv1b550082631_f1.jpg" height="100px">
+
+## Subtypes
+
+None
 
 ## Justification
 

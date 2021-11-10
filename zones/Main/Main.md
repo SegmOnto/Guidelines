@@ -1,6 +1,17 @@
+# `Main`
+
 ## Definition
 
 **Main area (text column)**: the main area designed to contain text, either as a single  or several columns (as designed in the conception of the layout: including eventually text, music notations, illumination, etc.).
+
+## Examples
+
+<img src="btv1b8601519p_f144.jpg" height="100px">
+<img src="btv1b84259980_f47.jpg" height="100px">
+
+## Subtypes
+
+None
 
 ## Justification
 

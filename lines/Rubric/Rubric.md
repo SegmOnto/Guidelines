@@ -1,6 +1,17 @@
+# `Rubric`
+
 ## Definition
 
-**Rubric:** caracterises a line containing a rubric, for instance signalling the beginning of a new text.
+**Rubric:** characterises a line containing a rubric, for instance signalling the beginning of a new text.
+
+## Examples
+
+<img src="bpt6k1280589b_f15.jpg" height="100px">
+<img src="btv1b84259980_f29.jpg" height="100px">
+
+## Subtypes
+
+None
 
 ## Justification
 

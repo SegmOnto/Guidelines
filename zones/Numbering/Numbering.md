@@ -1,7 +1,18 @@
+# `Numbering`
+
 ## Definition
 
-**Numbering:** caracterises a zone containing the page number.
+**Numbering:** characterises a zone containing the page number.
 
+## Examples
+
+<img src="btv1b84192440_f45.jpg" height="100px">
+<img src="btv1b86070385_f135_p.jpg" height="100px">
+
+## Subtypes
+
+* `Damage:page`
+* `Damage:other`
 
 ## Justification
 

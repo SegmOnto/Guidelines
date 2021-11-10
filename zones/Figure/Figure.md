@@ -1,6 +1,17 @@
+# `Figure`
+
 ## Definition
 
-**Figure:** caracterises a zone containing a figure.
+**Figure:** characterises a zone containing a figure.
+
+## Examples
+
+<img src="btv1b8601519p_f219.jpg" height="100px">
+<img src="Latin_7295A__btv1b10027322j_23.jpeg" height="100px">
+
+## Subtypes
+
+None
 
 ## Justification
 
