@@ -17,7 +17,3 @@ None
 
 The quintessential text line, on which usually rests the text that needs to be predicted.
 
-## Problems and challenges
-
-
-## Subtypes

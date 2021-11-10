@@ -17,6 +17,3 @@ None
 
 Tables are fairly common, and their reading order may substantially differ from surrounding text.
 
-## Problems and challenges
-
-∅

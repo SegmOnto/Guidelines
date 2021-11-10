@@ -14,12 +14,11 @@
 * `Margin:side`
 * `Margin:bottom`
 * `Margin:criticalApparatus`
+* `Margin:commentary`
+* `Margin:correction`
 
 ## Justification
 
 Distinguishing between Main and Margin text, though limited from a semantic point of view, is a practical approach.
 
-## Problems and challenges
 
-- Should additions be treated separately ? If yes, why ?
-- Should it include critical apparatus, notes, etc. ?

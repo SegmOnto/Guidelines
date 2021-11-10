@@ -28,6 +28,3 @@
 
 Identifying damaged area might prove useful, as they can affect the result of text prediction.
 
-## Problems and challenges
-
-Should _restoration_ receive a type as well ?

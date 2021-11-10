@@ -18,7 +18,5 @@
 ## Justification
 
 Stamps are common marks of possession, for instance by libraries, and are also used in a variety of situations.
-`
-## Problems and challenges
 
-- Should stamp and seal be distinguished ?
+

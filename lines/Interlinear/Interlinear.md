@@ -10,12 +10,14 @@
 
 ## Subtypes
 
-None
+Suggested values include:
+
+- `Interlinear:commentary`
+- `Interlinear:correction`
+
 
 ## Justification
 
 Interlinear corrections are fairly common, and not part of the original reading order of line succession. They usually need to be reintegrated somewhere inside a default line.
-
-## Problems and challenges
 
 

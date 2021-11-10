@@ -20,6 +20,4 @@
 Many sources contain elements relative to the material fabrication of itself. 
 Like page numbers or running titles, they should not be considered part of the text itself.
 
-## Problems and challenges
 
-- Should it be distinguished from Numbering ?

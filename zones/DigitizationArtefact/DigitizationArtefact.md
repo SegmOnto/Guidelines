@@ -18,6 +18,3 @@
 
 These kind of artefacts are quite common in digitised manuscripts, and need to be separated from the document itself.
 
-## Problems and challenges
-
-None
