@@ -1,8 +1,8 @@
-# `Title`
+# `TitlePage`
 
 ## Definition
 
-**Title:** characterises a zone containing a title distinct from the main text.
+**TitlePage:** characterises a zone containing a title distinct from the main text. It is mainly used for prints.
 
 ## Examples
 
@@ -19,4 +19,4 @@ None
 
 ## Problems and challenges
 
-- Is it really necessary ?
+∅
