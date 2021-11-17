@@ -1,8 +1,8 @@
-# `MarginZone`
+# `MarginTextZone`
 
 ## Definition
 
-**MarginZone:** characterises any **text zone** contained in the margins (upper, lower, inner or outer), including the space between two columns, whatever their semantic status (gloss, additions, …).
+**MarginTextZone:** characterises any **text zone** contained in the margins (upper, lower, inner or outer), including the space between two columns, whatever their semantic status (gloss, additions, …).
 
 ## Examples
 
@@ -11,14 +11,15 @@
 
 ## Subtypes
 
-* `MarginZone:side`
-* `MarginZone:bottom`
-* `MarginZone:criticalApparatus`
-* `MarginZone:commentary`
-* `MarginZone:correction`
+Suggested values include:
+
+* `MarginTextZone:note`
+* `MarginTextZone:commentary`
+* `MarginTextZone:correction`
+* `MarginTextZone:variants`
 
 ## Justification
 
-Distinguishing between Main and Margin text, though limited from a semantic point of view, is a practical approach.
+Distinguishing between Main and Marginal text, though limited from a semantic point of view, is a practical approach.
 
 
