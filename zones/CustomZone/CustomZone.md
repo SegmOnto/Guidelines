@@ -6,7 +6,9 @@
 
 ## Examples
 
+Encoding catalogue entries with `CustomZone:entry`
 
+<img src="BNF_bpt6k1181800p_26.jpeg" height="100px"/>
 
 ## Subtypes
 
