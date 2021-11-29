@@ -1,17 +1,17 @@
-# `SealZone`
+# `SealZone`
 
 ## Definition
 
 **SealZone:** characterises a zone containing a seal.
 
+## Subtypes
+
+None
+
 ## Examples
 
 <img src="btv1b10540051s_f273.jpg" height="100px">
 <img src="btv1b550082631_f1.jpg" height="100px">
-
-## Subtypes
-
-None
 
 ## Justification
 
