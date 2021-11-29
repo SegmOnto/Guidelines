@@ -1,34 +1,34 @@
-This repository contains examples, to help establish and illustrate an ontology of layout analysis and segmentation.
+# SegmOnto Guidelines
 
-There are three sections.
+This repository contains the Guidelines of the SegmOnto controlled vocabulary for layout analysis and segmentation.
 
-## Sources
+## Zones and lines
 
-Examples of sources, with all their possible zones.
+There are two classes of regions: **zones** (an area, i.e., polygon, on the page) and **lines** (an area, plus a baseline).
 
-Each submission is made in a separate folder, and contains:
+Zones or lines can be caracterised by:
 
-- an image file;
-- a markdown file, describing the different zones and lines that are encountered, and signaling issues;
-- (NOT FOR NOW): an Alto file implementing the example in the ontology. 
+- a type (mandatory, controlled values)
+- a subtype (optional, suggested open list of values)
+- a number (optional)
 
-## Zones
+of the form
 
-Examples of zones, one folder for each zone type, containing: 
+`Region(:subtype)?(#\d)?`
 
-- a markdown file, containing a definition and listing problems;
-- as much image files as examples.
+e.g.
 
-## Lines
+`MainZone`
 
-Examples of lines, one folder for each zone type, containing: 
+or
+- `MainZone#1`,
+- `MainZone:column`
+- `MainZone:column#1`.
 
-- a markdown file, containing a definition and listing problems;
-- as much image files as examples.
+## Content of the repository
 
+The repository contains the text of the Guidelines and definitions, with somes examples, as markdown files stored in two folders:
 
-# How to submit a new example ?
-
-Submit to main by creating a branch and making a pull request.
-
+- Zones
+- Lines
 
