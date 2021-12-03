@@ -4,12 +4,9 @@
 
 **DamageZone:** characterises any area containing damage to the source, such as holes in the material (parchment, paper…), blots, etc.
 
-## Examples
-
-<img src="BB57.png" height="100px">
-<img src="e-codices_Mslitt-0010-1.jpg" height="100px">
-
 ## Subtypes
+
+Suggested values include:
 
 * `DamageZone:corrosion` (_corrosion_)
 * `DamageZone:hole` (_trou_)
@@ -23,6 +20,15 @@
 * `DamageZone:discoloured` (_décoloré_)
 * `DamageZone:stained` (_taché_)
 * `DamageZone:charred` (_carbonisé_)
+
+## Examples
+
+* `DamageZone:soaked`
+
+<img src="BB57.png" height="100px">
+
+* `DamageZone:hole`
+<img src="e-codices_Mslitt-0010-1.jpg" height="100px">
  
 ## Justification
 
