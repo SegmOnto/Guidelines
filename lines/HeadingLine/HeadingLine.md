@@ -2,7 +2,7 @@
 
 ## Definition
 
-**HeadingLine:** characterises a line containing a heading, for instance signalling the beginning of a new text. It is typically the case for rubrics in medieval manuscripts, or part/chapter titles in a book.
+**HeadingLine:** characterises a line containing a heading, for instance indicating the beginning of a new text. It is typically the case for rubrics in medieval manuscripts, or part/chapter titles in printed books.
 
 ## Subtypes
 
@@ -10,6 +10,8 @@ Suggested values include:
 
 - `HeadingLine:rubric`
 - `HeadingLine:title`
+- `HeadingLine:incipit`
+- `HeadingLine:explicit`
 
 ## Examples
 
