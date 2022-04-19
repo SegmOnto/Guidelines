@@ -13,7 +13,7 @@ Suggested values include:
 
 ## Examples
 
-* `DigitizationArtefactZone:ruler`
+* `DigitizationArtefactZone:testCard`
 
 <img src="Berlin_Stabi_Darmst_2m_1660.jpg" height="100px">
 
